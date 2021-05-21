@@ -1,0 +1,8 @@
+
+{
+  "service": {
+
+    "name": "web",
+    "port": 80
+  }
+}
